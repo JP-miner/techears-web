@@ -11,6 +11,8 @@ import "primereact/resources/themes/lara-light-cyan/theme.css";
 
 import 'primeicons/primeicons.css';
 
+
+
 // Qualquer coisa
 const App = ({ children }) => (
   <FatalErrorBoundary page={FatalErrorPage}>
